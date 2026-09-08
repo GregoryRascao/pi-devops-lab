@@ -1,3 +1,4 @@
+# Raspberry Pi system monitoring project
 import socket
 from datetime import datetime
 import subprocess
